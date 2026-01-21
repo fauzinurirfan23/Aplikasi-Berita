@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Onboarding Text -->
+    <string name="tv_onboard1">Get things done with TODo</string>
+    <string name="tv_onboard2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the ,</string>
+    <string name="txt_btn_register">Register</string>
+    <string name="txt_btn_login">Login</string>
+</resources>

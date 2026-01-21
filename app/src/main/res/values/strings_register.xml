@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Register Text -->
+    <string name="title_aplikasi">Aplikasi Portal Berita</string>
+    <string name="title_desc"> Portal ini menghadirkan berbagai berita terkini dari berbagai negara di seluruh dunia. Melalui satu platform, Anda dapat mengikuti perkembangan politik, ekonomi, teknologi, olahraga, hingga budaya dari beragam sumber internasional yang terpercaya. Dapatkan informasi global secara cepat, akurat, dan mudah diakses kapan saja. </string>
+    <string name="title_register"> Daftar </string>
+    <string name="title_login">login</string>
+    <string name="title_email">email</string>
+    <string name="title_pass">sandi</string>
+    <string name="title_confirm_pass">konfirmasi sandi</string>
+    <string name="title_no_telp">no.telp</string>
+    <string name="title_usia">usia</string>
+    <string name="title_jenis_kelamin">jenis kelamin</string>
+    <string name="title_already_account">Already have an account?</string>
+    <string name="title_forgot_password">Forgot password?</string>
+    <string name="title_reset_password">Reset Password</string>
+</resources>
