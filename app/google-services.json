@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575889008116",
+    "project_id": "aplikasi-berita-10a20",
+    "storage_bucket": "aplikasi-berita-10a20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575889008116:android:04b4c5c9c9243d08a5c5a1",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiberita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-1bPhbKz6nxgj95YBdg3Yn9PVI5Zzaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
